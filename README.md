@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Voter System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Create voting system using react and solidity smartcontract
 
-## Available Scripts
+## Components : 
+1. Add Candidate
+2. Cast vote
+3. Display all candidate status
+4. Watch events from code
 
-In the project directory, you can run:
+## View
+<img src="https://github.com/Shweta2003/Web3VoterSystem/assets/65994349/cc383ccd-f9ff-4643-a29a-f998ea6174e1" width="700" />
 
-### `npm start`
+### Enter your password to metamask wallet
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img src="https://github.com/Shweta2003/Web3VoterSystem/assets/65994349/0472f844-8285-473e-a805-13c7ef0622b7" width="700" />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Front page displays all participlating candidates
+<img src="https://github.com/Shweta2003/Web3VoterSystem/assets/65994349/49efe6cb-c433-468b-b883-3c3fa4458604" width="700" />
 
-### `npm test`
+### Set a new candidate
+<img src="https://github.com/Shweta2003/Web3VoterSystem/assets/65994349/e5b8fe6c-969d-44ff-8173-c588c02d9f56" width="700" />
+<img src="https://github.com/Shweta2003/Web3VoterSystem/assets/65994349/8ccaa5a6-a40c-4636-a934-0c1ca3925b32" width="700" />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### See all other candidates
+<img src="https://github.com/Shweta2003/Web3VoterSystem/assets/65994349/cbef5f0e-337f-44a8-aa06-e4686fd642ba" width="700" />
 
-### `npm run build`
+### Cast a vote to a candidate
+<img src="https://github.com/Shweta2003/Web3VoterSystem/assets/65994349/4e5fe5e2-43f4-46d1-9dad-672e4fbee943" width="700" />
+<img src="https://github.com/Shweta2003/Web3VoterSystem/assets/65994349/db009a6c-d2c3-4a9a-9230-f427477da23c" width="700" />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Note : Each person can vote only once, else it will show error
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
