@@ -24,7 +24,7 @@ function App() {
         await window.ethereum.request({ method: "eth_requestAccounts" });
         const tempWeb3 = new Web3(window.ethereum);
         setWeb3(tempWeb3);
-        const tempContract = new tempWeb3.eth.Contract(abi, "0x39Ea8A682feE37222a5ad90516dE15cE5587a54c");
+        const tempContract = new tempWeb3.eth.Contract(abi, "0x2dF7574Bce15b52fa0764B7DE37218f9DDe46272");
         setcontract(tempContract);
         console.log(contract);
         gettotalvte(0);
